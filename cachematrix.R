@@ -1,4 +1,4 @@
-makeCacheMatrix <- function(matrix = matrix()) {
+makeCacheMatrix <- function(matrix = matrix()) { # Explanations
   inverseMatrix<-NULL
   
   set<-function(y){
